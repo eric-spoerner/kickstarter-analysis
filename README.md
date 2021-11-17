@@ -11,4 +11,4 @@
 ![OutcomesByLaunchDate](OutcomesByLaunchDate.png)
 ![OutcomesByParentCategory](OutcomesByParentCategory.png)
 ![USKickStarterStats](USKickstarterStats.png)
-![UKKickstarterStats](UKKickstarterStats.png)
+![UKKickstarterStats](UKKickstarterSTats.png)
