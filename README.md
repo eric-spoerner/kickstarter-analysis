@@ -1,2 +1,4 @@
-# kickstarter-analysis
-My first personal repo. Part of the UCSD Data Science bootcamp.
+# Analysis of kickstarter campaigns in the performing arts
+In service of recommending optimal timing and budget of theatrical kickstarters in the United States and Great Britain.
+---
+Findings:
