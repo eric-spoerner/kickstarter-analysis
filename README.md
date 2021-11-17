@@ -3,4 +3,4 @@ In service of recommending optimal timing and budget of theatrical kickstarters 
 ---
 Findings:
 ![OutcomesByLaunchDate](OutcomesByLaunchDate.png)
-OutcomesByParentCategory.png
+![OutcomesByParentCategory](OutcomesByParentCategory.png)
