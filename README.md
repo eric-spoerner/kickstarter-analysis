@@ -42,21 +42,17 @@ Extremely large campaigns (more than $50,000 goals) are more likely to be cancel
 
 ### limitations
 
-Some limitations in the data set include a lack of reasons for cancellation.  With more data on what drove a funder to cancel a Kickstarter campaign.  Current analysis operates on the assumption that lack of funding is a potential driver for cancellation.  Other reasons may have a material impact on this analysis.
+Some limitations in the data set include a lack of reasons for cancellation.  With more data on what drove a funder to cancel a Kickstarter campaign.  Current analysis operates on the assumption that lack of funding is a potential driver for cancellation.
 
-Additionally, for the purposes of this analysis, any data regarding the play's genre would presumably be helpful in further targeting.
+Additionally, for the purposes of this analysis, any data regarding the play's genre would presumably be helpful in further targeting as there may be a material difference in success rate or funding levels of comedies, dramas, etc.
 
 Further data regarding the subsequent outcome
 
-Genres do not exist.
-
 ### other possible studies
 
-
+Other unexplored avenues for analysis include a study of success rates vs campaign duration
 
 Something about percentage funded?
-
-Duration of campaign
 
 Years
 
