@@ -48,7 +48,9 @@ Cancellations appear to be highly unlikely and should not be expected; out of a 
 
 For the purposes of this analysis, any data regarding the play's genre would presumably be helpful in further targeting as there may be a material difference in success rate or funding levels of comedies, dramas, etc.
 
-Further data regarding the subsequent outcome of funded plays (revenue, attendance, etc) could help further determine the efficacy of the fundraisers.
+This data set is now also somewhat stale, with the latest data in the set being from 2017.
+
+Further data regarding the subsequent outcome of funded plays could help further determine the efficacy of the fundraisers.  This data could be in the form of critical reviews, attendance and revenue staistics, or length of the play's run.  
 
 ### Other Possible Studies
 
